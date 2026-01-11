@@ -4,11 +4,11 @@
 
 **Rohit:** “Bhaiya, aaj hum baat karne wale hain un **8 real-world skills** ke baare mein jo college ke syllabus mein kabhi nahi aayengi, par job mein har roz kaam aayengi. Ye woh skills hain jo tumhe ‘just another engineer’ se ‘go-to person’ banayengi.”
 
-**Aditya:** “Sahi kaha! Aaj kal sab DSA aur frameworks seekh lete hain, lekin **production ka bug fix karna, ya manager ko convince karna** — yeh nahi sikhate. Isliye aaj ka episode purely practical hai, with examples, screen shares, aur tools jo hum khud use karte hain.”
+**Aditya:** “Sahi kaha! Aaj kal sab DSA aur frameworks seekh lete hain, lekin **production ka bug fix karna, ya manager ko convince karna**  yeh nahi sikhate. Isliye aaj ka episode purely practical hai, with examples, screen shares, aur tools jo hum khud use karte hain.”
 
-**Rohit:** “Haan, aur hum har skill ko detail mein samjhayenge — kyun important hai, kaise seekhein, aur kaise isse apni daily work mein apply karein. Toh end tak zarur dekho!”
+**Rohit:** “Haan, aur hum har skill ko detail mein samjhayenge  kyun important hai, kaise seekhein, aur kaise isse apni daily work mein apply karein. Toh end tak zarur dekho!”
 
-**Aditya:** “Like, share, aur subscribe karna mat bhoolo — aise raw talks regularly chahiye toh bell icon dabao. Chalo, shuru karte hain!”
+**Aditya:** “Like, share, aur subscribe karna mat bhoolo  aise raw talks regularly chahiye toh bell icon dabao. Chalo, shuru karte hain!”
 
 *(B-roll: Fast cuts of office scenes, code editors, team meetings, memes of confused programmers)*
 
@@ -27,9 +27,9 @@
 - **Step 3 – Isolate:** Code ka hissa comment karo ya temporary remove karo — binary search approach.
 - **Step 4 – Tools:** VS Code Debugger, Chrome DevTools, breakpoints — inko seekho.”
 
-**Rohit:** “Real example deta hoon — ek baar API response slow aa raha tha. Maine pehle network logs check kiye, phir database query dekhi, aur pata chala — **missing index** tha. Senior ko bataya, usne 10 minute mein fix kar diya.”
+**Rohit:** “Real example deta hoon  ek baar API response slow aa raha tha. Maine pehle network logs check kiye, phir database query dekhi, aur pata chala  **missing index** tha. Senior ko bataya, usne 10 minute mein fix kar diya.”
 
-**Aditya:** “Debugging seekhne ka best tarika hai — **open source projects ke issues section mein jao**, aur dekho ki log kaise discuss kar rahe hain. StackOverflow par sirf solution mat dekho, **approach dekho**.”
+**Aditya:** “Debugging seekhne ka best tarika hai **open source projects ke issues section mein jao**, aur dekho ki log kaise discuss kar rahe hain. StackOverflow par sirf solution mat dekho, **approach dekho**.”
 
 *(Screen share: VS Code debugging with breakpoints, network tab analysis)*
 
