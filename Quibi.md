@@ -21,49 +21,61 @@ Aur is story se tumhe samajh aayega ki
 
 *(B-roll: Quibi app screenshots, funding headlines, Hollywood clips)*
 
----
-
 ### **SEGMENT 1: The Dream Setup (3:00 – 10:00)**
 
 ### **1. Quibi Ka Idea – Short Videos, Big Vision (3:00 – 6:00)**
 
 **Aditya:**  
 “Quibi ka matlab tha — *Quick Bites*.  
-Idea simple tha:  
-**10-minute ke premium shows**, sirf mobile ke liye.”
+Idea yeh tha ki log jo normally YouTube ya TikTok pe short videos dekhte hain,  
+unke liye **premium short-form content** banaya jaye.”
+
+“Har episode sirf **5–10 minute** ka hota,  
+taaki commute, lunch break ya free time me easily dekha ja sake.”
 
 **Rohit:**  
-“No ads.  
-High-quality content.  
-Hollywood actors.  
-Daily episodes.”
+“Quibi ka maanna tha ki future **mobile-first** hoga.  
+Log TV ya laptop nahi, phone pe hi content consume karenge.”
+
+“No ads, cinematic quality, Hollywood actors,  
+aur daily episodes — matlab Netflix jaisa feel,  
+par short form me.”
 
 **Aditya:**  
-“Founders kaun the?
+“Founders bhi koi random log nahi the:
 
-- Jeffrey Katzenberg (ex-Disney, DreamWorks)
-- Meg Whitman (ex-CEO eBay, HP)
+- Jeffrey Katzenberg — Disney aur DreamWorks jaisa experience  
+- Meg Whitman — eBay aur HP ki ex-CEO  
 
-Matlab credibility 100%.”
+Isliye investors ko laga:  
+‘Is project me risk kam hai.’”
 
 ---
 
 ### **2. Engineering Level – Koi Compromise Nahi (6:00 – 10:00)**
 
 **Rohit:**  
-“Tech side se Quibi bohot strong tha:
+“Engineering side se Quibi ne koi shortcut nahi liya.”
 
-- Custom video streaming tech
-- ‘Turnstyle’ feature (phone rotate karo, angle change)
-- Scalable cloud infrastructure
-- Secure DRM
-- Top-tier mobile engineers”
+“Unhone khud ka video streaming system banaya,  
+jo mobile network ke hisaab se quality adjust karta tha.”
+
+“Sabse unique feature tha **Turnstyle** —  
+phone seedha rakho to ek angle,  
+phone ghumao to doosra angle.”
 
 **Aditya:**  
-“Yeh koi college project nahi tha.  
-Yeh **FAANG-level engineering** thi.”
+“Is feature ka goal tha ki user chahe kaise bhi phone pakde,  
+experience same rahe.”
 
-*(Screen visuals: Turnstyle demo, mobile rotation UI)*
+“Backend side pe:
+
+- Cloud infra fully scalable tha  
+- DRM strong tha, piracy rokne ke liye  
+- Mobile engineers top companies se aaye the”
+
+“Matlab tech ke level pe  
+**koi bhi kami nahi thi**.”
 
 ---
 
@@ -72,42 +84,54 @@ Yeh **FAANG-level engineering** thi.”
 ### **3. Overengineering Before Validation (10:00 – 14:00)**
 
 **Aditya:**  
-“Sabse pehli galti —  
-**Product-market fit se pehle perfection**.”
+“Yahin se real problem start hoti hai.”
+
+“Quibi ne pehle hi assume kar liya ki  
+‘Users ko yahi chahiye.’  
+Par unhone **validation nahi ki**.”
 
 **Rohit:**  
-“Users se poochha hi nahi gaya:
+“Kisi ne properly test nahi kiya:
 
-- Log short content kahan dekhte hain? (YouTube, TikTok)
-- Log pay karna chahte hain ya nahi?
-- Mobile-only restriction sahi hai ya nahi?”
+- Kya log short content ke liye paisa denge?  
+- Kya log sirf mobile pe hi dekhna chahenge?  
+- Kya sharing disable karna sahi idea hai?”
+
+“Company ne pehle hi perfect product bana diya,  
+bina ye jaane ki market us product ko chahti bhi hai ya nahi.”
 
 **Aditya:**  
-“Quibi ne assume kar liya:
-
-> ‘Log quality ke liye paisa denge.’”
+“Isse kehte hain  
+**Overengineering before product-market fit**.”
 
 ---
 
 ### **4. Ignoring User Behavior (14:00 – 20:00)**
 
 **Rohit:**  
-“Reality kya thi?
+“User behavior hamesha clear hota hai.”
 
-- Log free content dekhna pasand karte hain
-- Log content share karna chahte hain
-- Log TV + laptop pe bhi dekhna chahte hain”
+“Log content dekh ke usse:
+
+- Share karna chahte hain  
+- Screenshot lena chahte hain  
+- Bade screen pe enjoy karna chahte hain”
 
 **Aditya:**  
-“Quibi pe:
+“Par Quibi ne sab block kar diya:
 
-- ❌ No screenshots
-- ❌ No sharing
-- ❌ No TV support (initially)
-- ❌ Sirf mobile”
+- Screenshot band  
+- Sharing band  
+- TV support nahi  
+- Sirf mobile access”
+
+“Yeh decision piracy rokne ke liye tha,  
+par iska side-effect ye hua  
+ki content viral hi nahi ho paya.”
 
 **Rohit:**  
-“Yani product ka design **user ke against** tha.”
+“Jab sharing hi nahi hogi,  
+to growth kaise hogi?”
 
 ---
 
@@ -116,38 +140,44 @@ Yeh **FAANG-level engineering** thi.”
 ### **5. Premium Pricing, Zero Patience (20:00 – 24:00)**
 
 **Aditya:**  
-“Quibi ka pricing:
+“Quibi launch hua paid model ke saath:
 
-- $4.99 (ads ke saath)
-- $7.99 (ads ke bina)”
+- $4.99 ads ke saath  
+- $7.99 ads ke bina”
+
+“Problem yeh thi ki user already compare kar raha tha.”
 
 **Rohit:**  
-“Problem yeh thi ki:
+“Netflix zyada content de raha tha,  
+YouTube aur TikTok bilkul free the.”
 
-- Netflix = $13, unlimited content
-- YouTube = free
-- TikTok = free”
+“User ke dimaag me ek hi sawal tha:  
+‘Main paisa kyu du jab free options better hain?’”
 
 **Aditya:**  
-“User bole:  
-‘Why should I pay for something I can’t even share?’”
+“Quibi ne pricing ke saath  
+user patience underestimate kar li.”
 
 ---
 
 ### **6. COVID Changed Everything (24:00 – 30:00)**
 
 **Rohit:**  
-“Quibi mobile-first tha, commute ke liye design hua tha.”
+“Quibi ka pura idea commute pe based tha.”
+
+“Subway, cab, bus —  
+jahan short mobile content ka use hota.”
 
 **Aditya:**  
-“COVID aaya.
+“Par COVID ke baad:
 
-- Commute khatam
-- Log ghar pe TV dekh rahe the
-- Long-form content chal raha tha”
+- Commute zero ho gaya  
+- Log ghar pe TV dekhne lage  
+- Long-form content ka trend wapas aa gaya”
 
 **Rohit:**  
-“Quibi ka core assumption hi toot gaya.”
+“Quibi ne jo assumption banayi thi,  
+wo environment hi change ho gaya.”
 
 ---
 
@@ -156,33 +186,32 @@ Yeh **FAANG-level engineering** thi.”
 ### **7. Engineers Did Their Job Perfectly (30:00 – 35:00)**
 
 **Aditya:**  
-“Important baat:  
-Quibi fail nahi hua kyunki engineers weak the.”
+“Yeh samajhna zaroori hai ki  
+Quibi ka failure engineering failure nahi tha.”
 
 **Rohit:**  
-“Engineers ne:
+“Engineers ne jo bola gaya tha,  
+wo perfectly execute kiya.”
 
-- Highly optimized streaming banayi
-- Smooth UX deliver ki
-- Scale-ready systems likhe”
+“Par unse ye nahi poocha gaya:  
+‘Kya hum sahi problem solve kar rahe hain?’”
 
 **Aditya:**  
-“Par unse yeh nahi poochha gaya:
-
-> ‘Kya yeh problem solve bhi karta hai?’”
+“Engineering strong thi,  
+lekin direction galat thi.”
 
 ---
 
 ### **8. Startup Reality Check (35:00 – 40:00)**
 
 **Rohit:**  
-“Startup ka golden rule yaad rakho:
+“Startup me ek simple rule hota hai:
 
 > Technology is a tool, not the product.”
 
 **Aditya:**  
-“Perfect code + wrong idea = failure  
-Average code + right idea = success”
+“Agar idea galat hai,  
+to best code bhi company ko nahi bacha sakta.”
 
 ---
 
@@ -192,49 +221,27 @@ Average code + right idea = success”
 
 **Rohit:**  
 
-- Overengineering se pehle validate karo
-- Users ko ignore mat karo
-- Assumptions dangerous hoti hain
-- Distribution > features
+- Pehle validate, phir build  
+- Users ke habits samjho  
+- Assumptions pe business mat banao  
+- Distribution ko lightly mat lo  
 
 **Aditya:**  
-“Tech ke saath business samajhna bhi skill hai.”
+“Growth aur sharing bhi utni hi important skills hain  
+jitni coding.”
 
 ---
 
 ### **10. Students & Developers Ke Liye Advice (45:00 – 48:00)**
 
 **Rohit:**  
-“Next time jab tum project banao:
+“Jab bhi project start karo:
 
-- Pehle user se baat karo
-- Simple MVP banao
-- Feedback lo
-- Phir scale karo”
-
-**Aditya:**  
-“System design sirf servers ka nahi hota,  
-**decision-making ka bhi hota hai**.”
-
----
-
-### **Outro & Closing (48:00 – 50:00)**
-
-**Rohit:**  
-“Quibi ka downfall yeh sikhata hai ki  
-startup sirf tech se nahi chalta.”
+- User se baat karo  
+- Chhota MVP banao  
+- Feedback lo  
+- Phir heavy engineering karo”
 
 **Aditya:**  
-“Achha engineer banna zaroori hai,  
-par **real-world thinker banna aur bhi zaroori**.”
-
-**Rohit:**  
-“Agar aise aur real tech stories chahiye —  
-like, share, aur subscribe karo.”
-
-**Aditya:**  
-“Next episode:  
-**‘When Scaling Too Early Destroyed a Startup’**”
-
-**Both:**  
-“Bye! Keep building, but build smart.”
+“System design sirf backend ka nahi hota,  
+decision aur timing ka bhi hota hai.”
